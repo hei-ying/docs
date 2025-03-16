@@ -1,2 +1,1 @@
-include: ["crossborder"]
-include: ["prompts"]
+include: ["crossborder","prompts"]
